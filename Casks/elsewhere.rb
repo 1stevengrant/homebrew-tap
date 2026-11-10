@@ -1,6 +1,6 @@
 cask "elsewhere" do
-  version "2.1"
-  sha256 "9fd5468ed4dad44a562686aa3a822a53f25987170f54edd9a3376d37a340e13b"
+  version "2.1.1"
+  sha256 "29143516ddfadad2c17095a56661fb72f5b6f0abf08021762ae2335b314ae8db"
 
   url "https://github.com/1stevengrant/Elsewhere/releases/download/v#{version}/Elsewhere-#{version}.zip"
   name "Elsewhere"
